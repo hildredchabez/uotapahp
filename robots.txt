@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eebuchaiso.awesomehuan.com/sitemap.xml
